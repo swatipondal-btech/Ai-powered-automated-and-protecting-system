@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+Attendance.csv
+SuspiciousLog.csv
+screenshots/
+students/
+students.json
+face_landmarker.task
